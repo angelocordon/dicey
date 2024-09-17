@@ -1,0 +1,17 @@
+html {
+	font: size 16px;
+}
+
+main {
+	border: 1px solid red;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.dice {
+	height: 20rem;
+	width: 20rem;
+	font-size: 18rem;
+}
