@@ -1,9 +1,9 @@
 html {
 	font: size 16px;
+	color: #333;
 }
 
 main {
-	border: 1px solid red;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -11,7 +11,8 @@ main {
 }
 
 .dice {
-	height: 20rem;
-	width: 20rem;
-	font-size: 18rem;
+	font-size: 20rem;
+	line-height: 20rem;
+	background: transparent;
+	border: 0px;
 }
